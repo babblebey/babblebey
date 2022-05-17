@@ -2,9 +2,10 @@ Hi 👋 My name is Olabode Lawal-Shittabey
 ========================================
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [babblebey@gmail.com](mailto:babblebey@gmail.com)
+* 👀  I’m a Frontend Developer and currently going fullstack
 * 🧠  I'm learning MERN Stack as I journal my coding journey via my social media platform
 * ⚡  I’m looking to collaborate and learn.
+* ✉️  You can contact me at [babblebey@gmail.com](mailto:babblebey@gmail.com)
 
 <a href="https://www.twitter.com/babblebey" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/babblebey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
