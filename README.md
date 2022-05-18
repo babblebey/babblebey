@@ -2,7 +2,7 @@ Hi 👋 My name is Olabode Lawal-Shittabey
 ========================================
 
 * 🌍  I'm based in Lagos, Nigeria
-* 👀  I'm a Frontend Developer and currently going fullstack
+* 👀   I'm a Frontend Developer and currently going fullstack
 * 🧠  I'm learning MERN Stack as I journal my coding journey via my social media platform
 * ⚡  I'm looking to collaborate and learn.
 * ✉️  You can contact me at [babblebey@gmail.com](mailto:babblebey@gmail.com)
